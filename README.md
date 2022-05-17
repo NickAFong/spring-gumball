@@ -10,3 +10,5 @@
 
 * Gradle 5.6
 * JDK 11
+
+![Demo Initializr](images/1.png)
